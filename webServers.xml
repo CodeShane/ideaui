@@ -1,0 +1,18 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="14edc8aa-8e95-4876-a815-fe9bbcec9b27" name="repo-unsci-hg-cp-unittest" url="http://54.174.225.58">
+        <fileTransfer host="54.174.225.58" port="22" privateKey="C:\sites\dev-aws\CP-Jenkins.ppk" rootFolder="/svn" accessType="SFTP" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions hostKeyCheckingLevel="NO">
+        <option name="hostKeyCheckingLevel" value="NO" />
+      </SftpAdvancedOptions>
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
