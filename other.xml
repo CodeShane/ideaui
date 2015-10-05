@@ -77,4 +77,7 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="antlib:org.apache.tools.ant.types.resources.comparators" location="D:/repo-unsci-hg/uns/common/Tools/AntLinux/lib/ant-contrib-1.0b3.jar!/net/sf/antcontrib/antlib.xml" />
+  </component>
 </application>
