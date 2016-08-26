@@ -1,9 +1,10 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/Shane.Robinson/.WebStorm11/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/Shane.Robinson/.WebStorm11/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/Scar/.WebStorm11/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/Scar/.WebStorm11/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="C:/Program Files (x86)/nodejs/node.exe" version="0.12.2" last-modified="1427863026000" />
+    <node-interpreter path="C:/Program Files (x86)/nodejs/node.exe" version="5.5.0" last-modified="1453363904000" />
+    <node-interpreter path="C:/PROGRA~2/nodejs/node.exe" version="5.5.0" last-modified="1453363904000" />
   </component>
 </application>
